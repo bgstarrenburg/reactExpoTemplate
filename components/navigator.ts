@@ -1,0 +1,1 @@
+export const navigateToCounter = (navigator: any) => () => navigator.navigate('Counter')
